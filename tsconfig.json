@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es5",
+      "moduleResolution": "node",
+      "removeComments": true,
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "strictNullChecks": true,
+      "allowSyntheticDefaultImports": true,
+      "skipLibCheck": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "lib": [
+        "dom",
+        "es5",
+        "es2015"
+      ]
+    },
+    "include": [
+      "src/"
+    ]
+  }
+  
