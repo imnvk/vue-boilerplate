@@ -1,0 +1,12 @@
+.idea/
+node_modules/
+test/build/*.js
+test/videos/*
+test/screenshots/*
+docker-compose.override.yml
+src/**/*.js
+npm-debug.log
+.Trash-1000
+.vscode/
+.DS_Store
+.history/
